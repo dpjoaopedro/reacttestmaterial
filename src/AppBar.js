@@ -35,7 +35,7 @@ export default function ButtonAppBar() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" className={classes.title}>
-            Material UI Testing
+            Capiroto Squad
           </Typography>
           <Button color="inherit">Login</Button>
         </Toolbar>
